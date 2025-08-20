@@ -62,7 +62,7 @@ You need to write the following commands on the terminal screen (in vscode) so t
 Go to the project directory
 
     ```bash
-    cd MERN-Todo
+    cd https://github.com/khananask908/stellar_code_todo_app.git
     ```
 
 Install dependencies for both client and server:
@@ -105,5 +105,6 @@ If you want to Fork repository and want to run locally, follow this guidelines [
 This is an Open-Source repository, and contributions are always welcome! If you find an issue, please create a new issue under the "Issues" section. To contribute code, fork the repository and submit a pull request. Your contributions will help make this a valuable resource for the community!
 
 ## 🤝 Let's Connect
+
 
 
